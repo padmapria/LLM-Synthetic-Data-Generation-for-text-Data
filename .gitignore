@@ -4,9 +4,7 @@
 *.db
 wikihowAll.csv
 
-*.parquet
 *.html
-*.csv
 *.log
 ~/.log/
 
