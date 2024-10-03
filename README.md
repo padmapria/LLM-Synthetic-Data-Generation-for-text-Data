@@ -1,5 +1,5 @@
 
-<h2> Large Langugate Model for synthetic data generation</h2> 
+<h2> Large Language Model for synthetic data generation for text data</h2> 
 Language models have exploded on the internet ever since ChatGPT came out, and rightfully so. They can write essays, code entire programs, and even make memes. They are particularly useful to generate datasets on unstructured data.<br/>
 <br/>
 Synthetic data generation reference : (https://towardsdatascience.com/create-a-synthetic-dataset-using-llama-3-1-405b-for-instruction-fine-tuning-9afc22fb6eef) <br/>
