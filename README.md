@@ -47,7 +47,7 @@ Start the OLLAMA server by running the command 'ollama serve' in your terminal <
 By default ollama server runs in the port (11434)<br/>
 
 1. Clone this git repository from command prompt<br/>
-git clone https://github.com/padmapria/Synthatic_Data_Generation_with_llm.git    
+git clone https://github.com/padmapria/LLM-Synthetic-Data-Generation-for-text-Data.git    
 cd Synthatic_Data_Generation_with_llm    
 
 2. Create conda environment 
