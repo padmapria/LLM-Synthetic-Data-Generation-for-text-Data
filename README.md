@@ -51,6 +51,9 @@ https://developers.googleblog.com/en/gemma-explained-new-in-gemma-2/
 - Investigate adapting the synthetic data generation process to specific domains (e.g., medical, financial) to improve relevance and accuracy..<br/>
 - Evaluation Metrics: Develop and integrate more comprehensive evaluation metrics to assess synthetic data quality and effectiveness.
 
+<h2> Framework used </h2>
+- Langchain <br/>
+
 <h2> Acknowledgments </h2>
 - I acknowledge the developers of LLaMA3 (Meta AI) and Gemma2(Google) for providing access to their models and APIs.
 
